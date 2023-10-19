@@ -1,0 +1,16 @@
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\ShapeLib.dll
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\ShapeLib.pdb
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.abstractions.dll
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.assert.dll
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.core.dll
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.execution.desktop.dll
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.abstractions.xml
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.assert.xml
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.core.xml
+D:\dotnet\ShapeLib\ShapeLib\bin\Debug\xunit.execution.desktop.xml
+D:\dotnet\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csproj.AssemblyReference.cache
+D:\dotnet\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csproj.CoreCompileInputs.cache
+D:\dotnet\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csproj.CopyComplete
+D:\dotnet\ShapeLib\ShapeLib\obj\Debug\ShapeLib.dll
+D:\dotnet\ShapeLib\ShapeLib\obj\Debug\ShapeLib.pdb
